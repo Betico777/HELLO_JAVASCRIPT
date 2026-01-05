@@ -30,3 +30,15 @@ let mySymbol= Symbol("mysymbol")
 
 let myBigInt = BigInt("6756866457476768768576987684769847687569847698")
 let myBigInt2 = 6756866457476768768576987684769847687569847698n
+
+
+
+//Mostrar tipos de datos
+
+console.log(typeof name)
+console.log(typeof age)
+console.log(typeof mySymbol)
+console.log(typeof isStudent)
+console.log(typeof undefinedValue)
+console.log(typeof nullValue)
+console.log(typeof myBigInt)
