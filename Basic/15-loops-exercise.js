@@ -1,28 +1,26 @@
 // // 1. Crea un bucle que imprima los numero del 1 al 20
 
-// for (let i = 1; i <= 20 ; i++){
-//     console.log(i)
-// }
+for (let i = 1; i <= 20 ; i++){
+    console.log(i)
+}
 
 // // 2. Crea un bucle que sume  todos los numeros del 1 al 100 y muestre el resultado
 
-// let suma = 0
+let suma = 0
 
-// for(let i = 0; i <=100; i++ ){
-//     suma = suma + i
-// }console.log(suma)
+for(let i = 0; i <=100; i++ ){
+    suma = suma + i
+}console.log(suma)
 
 // // 3. Crea un bucle que imprima  todos los numeros pares entre 1 y 100
 
-// let i = 0
+let i = 0
 
-// while(i < 100){
-//     if( i % 2 == 0){
-//         console.log(i)
-//     }i++
-// }
-
-
+while(i < 100){
+    if( i % 2 == 0){
+        console.log(i)
+    }i++
+}
 
 // 4. Dado un array de nombres, usa un bucle para imprimir cada nombre en la consola
 
